@@ -2,7 +2,7 @@
 title: "Reproducible research porject 1"
 author: "Thibault Dubois"
 date: "25 fÃ©vrier 2018"
-output: md_document 
+output: html_document 
   
 ---
 
