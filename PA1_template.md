@@ -26,8 +26,6 @@ Setting up the data
 
     Data_On_Activity <- read.csv("H:/Rstudio/Data/Coursera_R_Course5/Reproducible research project 1/activity/activity.csv")
 
-    #Data_On_Activity$interval <- strptime(gsub("([0-9]{1,2})([0-9]{2})", "\\1:\\2", Data_On_Activity$interval), format='%H:%M')
-
 Question 1: What is mean total number of steps taken per day?
 -------------------------------------------------------------
 
